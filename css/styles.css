@@ -6,7 +6,7 @@
 /*ESTILOS COMUNES PARA TODAS LAS SECCIONES*/
 body {
   font-family: "Montserrat", sans-serif;
- background-image: linear-gradient(to right, #e5a1c8, #e6b4d8, #e7c6e6, #ebd8f0, #f1e9f8, #f1e8fa, #f1e6fd, #f1e5ff, #eecfff, #efb7ff, #f49dfa, #fb7ef0);
+  background-image: linear-gradient(to right, #e5a1c8, #e6b4d8, #e7c6e6, #ebd8f0, #f1e9f8, #f1e8fa, #f1e6fd, #f1e5ff, #eecfff, #efb7ff, #f49dfa, #fb7ef0);
 }
 
 .nav-link,
@@ -152,4 +152,4 @@ textarea {
   .titulo{
     font-family:'Times New Roman', Times, serif
   }
-/*# sourceMappingURL=styles.css.map */
+
